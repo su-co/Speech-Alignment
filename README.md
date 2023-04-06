@@ -43,6 +43,9 @@ ps: 上述步骤适用于英文，目前中文拼音在官网上是找不到的�
 
 ps：praat下载、安装、使用教程https://zhuanlan.zhihu.com/p/33449448
 
+## python-textgrid库使用教程
+对齐后，将获得`.TextGrid`文件，对该文件的操作可看https://blog.csdn.net/duxin_csdn/article/details/88966295
+
 ## 参考文献
 
 https://zhuanlan.zhihu.com/p/613596010
